@@ -1,0 +1,20 @@
+{
+  "name": "paginaNodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "pedro pereira",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
